@@ -1,0 +1,2 @@
+app: demo
+      # setup check expects a 'cache_dir' key; adding it resolves the functional warning.
